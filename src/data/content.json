@@ -10,6 +10,15 @@
     "FAQ",
     "QuoteFunnel"
   ],
+  "navbarPill": {
+    "links": [
+      { "label": "Home", "href": "/" },
+      { "label": "Services", "href": "/services" },
+      { "label": "Locations", "href": "/locations" },
+      { "label": "Reviews", "href": "/#reviews" },
+      { "label": "FAQ", "href": "/#faq" }
+    ]
+  },
   "home": {
     "hero": {
       "h1": "Built Right, the First Time",
@@ -72,6 +81,22 @@
         {
           "q": "Why choose us for Home Additions?",
           "a": "We provide guaranteed workmanship, premium materials, and experienced professional technicians."
+        },
+        {
+          "q": "Will an addition require a permit?",
+          "a": "Yes, most home additions require permits, which we handle as part of the project."
+        },
+        {
+          "q": "Can you match the addition to my home's existing style?",
+          "a": "Yes, we design additions to blend seamlessly with your home's existing rooflines, siding, and finishes."
+        },
+        {
+          "q": "Do you build second-story additions?",
+          "a": "Yes, we handle second-story additions in addition to single-level room extensions."
+        },
+        {
+          "q": "How much space can an addition add to my home?",
+          "a": "It depends on your lot and layout. We'll walk your property and discuss realistic options during your free estimate."
         }
       ]
     },
@@ -91,6 +116,22 @@
         {
           "q": "Why choose us for Kitchen Remodeling?",
           "a": "We provide guaranteed workmanship, premium materials, and experienced professional technicians."
+        },
+        {
+          "q": "Can you move plumbing and electrical during a kitchen remodel?",
+          "a": "Yes, we can reconfigure plumbing and electrical as needed to support your new layout."
+        },
+        {
+          "q": "Do you help with cabinet and material selection?",
+          "a": "Yes, we can guide you through cabinetry, countertop, and finish options that fit your budget."
+        },
+        {
+          "q": "Can you open up my kitchen to an adjoining room?",
+          "a": "In many cases, yes. We can remove or reconfigure walls where structurally possible."
+        },
+        {
+          "q": "How long will I be without a working kitchen?",
+          "a": "Timelines vary by project scope. We'll walk you through an estimated schedule before work begins."
         }
       ]
     },
@@ -110,6 +151,22 @@
         {
           "q": "Why choose us for Bathroom Remodeling?",
           "a": "We provide guaranteed workmanship, premium materials, and experienced professional technicians."
+        },
+        {
+          "q": "Can you add a bathroom where there wasn't one before?",
+          "a": "Yes, we handle full bathroom additions, including new plumbing and electrical."
+        },
+        {
+          "q": "Do you install walk-in and curbless showers?",
+          "a": "Yes, we install a range of shower styles, including walk-in and curbless designs."
+        },
+        {
+          "q": "Can you update just the tile and fixtures without a full remodel?",
+          "a": "Yes, we can scope a project to fit your goals, from a full remodel to targeted updates."
+        },
+        {
+          "q": "Are your bathroom remodels water-damage resistant?",
+          "a": "We use proper waterproofing and moisture-resistant materials behind tile and fixtures."
         }
       ]
     },
@@ -129,6 +186,22 @@
         {
           "q": "Why choose us for Decks & Patios?",
           "a": "We provide guaranteed workmanship, premium materials, and experienced professional technicians."
+        },
+        {
+          "q": "Do you build covered decks and patios?",
+          "a": "Yes, we build both open and covered decks and patios, including roofed structures."
+        },
+        {
+          "q": "Can you repair an existing deck instead of replacing it?",
+          "a": "Yes, we handle deck repairs as well as full replacements and expansions."
+        },
+        {
+          "q": "What materials do you use for decking?",
+          "a": "We work with a range of decking materials to fit your budget and maintenance preferences."
+        },
+        {
+          "q": "Do decks require a permit?",
+          "a": "Most deck projects require a permit, which we handle as part of the process."
         }
       ]
     },
@@ -149,6 +222,22 @@
         {
           "q": "Why choose us for Repairs & Renovations?",
           "a": "We provide guaranteed workmanship, premium materials, and experienced professional technicians."
+        },
+        {
+          "q": "Do you handle small repair jobs, or only large projects?",
+          "a": "We handle both, from single-room repairs to full renovations."
+        },
+        {
+          "q": "Can you convert my basement or attic into living space?",
+          "a": "Yes, we handle basement and attic conversions as part of our renovation services."
+        },
+        {
+          "q": "Do you match existing wall texture and finishes?",
+          "a": "Yes, we match existing textures and finishes so repairs blend in seamlessly."
+        },
+        {
+          "q": "How do I know if damage is structural?",
+          "a": "We'll assess the issue during your free estimate and let you know if structural repair is needed."
         }
       ]
     },
@@ -166,6 +255,22 @@
         {
           "q": "Why choose us for Flooring?",
           "a": "We provide guaranteed workmanship, premium materials, and experienced professional technicians."
+        },
+        {
+          "q": "Do you install flooring as a standalone project?",
+          "a": "Yes, we install hardwood and tile flooring both as standalone projects and as part of larger remodels."
+        },
+        {
+          "q": "Can you remove and dispose of my old flooring?",
+          "a": "Yes, removal and disposal of old flooring is included as part of the installation process."
+        },
+        {
+          "q": "What flooring materials do you work with?",
+          "a": "We install hardwood and tile flooring matched to the style of your home."
+        },
+        {
+          "q": "Can you install flooring that matches the rest of my house?",
+          "a": "Yes, we can match new flooring to existing floors throughout your home where possible."
         }
       ]
     }
@@ -260,6 +365,22 @@
     {
       "q": "What types of projects do you handle?",
       "a": "We handle home additions, kitchen and bathroom remodels, decks and patios, structural repairs, and flooring installation."
+    },
+    {
+      "q": "How do I get started?",
+      "a": "Call or text us at (615) 500-7487 to schedule your free, no-obligation estimate. We'll walk your property and put together a clear proposal."
+    },
+    {
+      "q": "Do you handle permits and inspections?",
+      "a": "Yes, we handle any required permits and coordinate inspections as part of your project."
+    },
+    {
+      "q": "Do I need to be home during construction?",
+      "a": "You don't need to be present for every workday, but we'll coordinate key milestones and walkthroughs with you directly."
+    },
+    {
+      "q": "What sets Built Right Construction apart?",
+      "a": "With over 20 years of experience and Mark Crawford's hands-on involvement in every project, we focus on clear communication, quality craftsmanship, and getting it built right the first time."
     }
   ]
 }
