@@ -1,0 +1,25 @@
+{
+  "primaryColor": "#8a5a34",
+  "primaryColorHover": "#6f4527",
+  "secondaryColor": "#171412",
+  "accentColor": "#c99a52",
+  "borderRadius": "0.75rem",
+  "fontFamily": "Outfit",
+  "style": "oak-city",
+  "darkMode": true,
+  "heroVideo": "",
+  "typewriterWords": [
+    "Kitchens",
+    "Bathrooms",
+    "Decks",
+    "Additions"
+  ],
+  "marqueePhrases": [
+    "Licensed",
+    "Bonded",
+    "Insured",
+    "EPA Lead-Safe Certified",
+    "Established 1996",
+    "Free Estimates"
+  ]
+}

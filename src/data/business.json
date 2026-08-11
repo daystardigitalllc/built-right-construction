@@ -1,0 +1,41 @@
+{
+  "name": "Built Right Construction",
+  "industry": "Remodeling & Construction",
+  "logo": "/logo.svg",
+  "phone": "(615) 500-7487",
+  "email": "crawfordml@comcast.net",
+  "bookingUrl": "https://www.facebook.com/builtrighttn",
+  "mainCta": "Get a Free Estimate",
+  "yearsInBusiness": "30+",
+  "certifications": [
+    "Licensed",
+    "Bonded",
+    "Insured",
+    "EPA Lead-Safe Certified"
+  ],
+  "socials": {
+    "facebook": "https://facebook.com/built-right-construction",
+    "instagram": "https://instagram.com/built-right-construction",
+    "google": "https://g.page/built-right-construction"
+  },
+  "address": {
+    "street": "123 Main St",
+    "city": "Smyrna",
+    "state": "TN",
+    "zip": "37203"
+  },
+  "locations": [
+    "Smyrna",
+    "Nashville",
+    "Brentwood",
+    "Murfreesboro"
+  ],
+  "services": [
+    "Home Additions",
+    "Kitchen Remodeling",
+    "Bathroom Remodeling",
+    "Decks & Patios",
+    "Repairs & Renovations",
+    "Flooring"
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "layout": [
+    "Hero",
+    "Marquee",
+    "TrustBar",
+    "Services",
+    "CTA",
+    "Reviews",
+    "GalleryScrollChoreography",
+    "FAQ",
+    "QuoteFunnel"
+  ],
+  "home": {
+    "hero": {
+      "h1": "Built Right, the First Time",
+      "supporting": "Home remodeling, additions, decks, and repairs for Nashville, Brentwood, Murfreesboro, and Smyrna homeowners — backed by 30+ years of experience and free estimates with no obligation.",
+      "ctaText": "Get a Free Estimate",
+      "badge": "⭐⭐⭐⭐⭐ Top Rated Local Remodeling & Construction"
+    },
+    "about": {
+      "title": "About Built Right Construction",
+      "text": "Established in 1996, Built Right Construction is locally owned and operated by Mark Crawford, a licensed remodeling contractor and Certified EPA Lead-Safe Renovator with more than 20 years of experience in building, design, and construction. We are fully licensed, bonded, and insured, with references and proof of insurance and license available on request, so you can be assured your project will be built right the first time. We offer free estimates with no obligation."
+    },
+    "whyChooseUs": {
+      "title": "Why Homeowners Choose Built Right",
+      "subtitle": "Setting the standard for Remodeling & Construction solutions.",
+      "items": [
+        {
+          "title": "Guaranteed Workmanship",
+          "description": "Every installation and repair is backed by our lifetime warranty package."
+        },
+        {
+          "title": "Upfront Estimates",
+          "description": "Clear, itemized pricing so you know what to expect. No hidden surprises."
+        },
+        {
+          "title": "Certified Experts",
+          "description": "Our technicians undergo constant training and safety certifications."
+        }
+      ]
+    }
+  },
+  "services": [
+    {
+      "slug": "home-additions",
+      "title": "Home Additions",
+      "shortDescription": "Room additions, second-story additions, garages, and outbuildings.",
+      "longDescription": "Need more space but don't want to move? We design and build room additions and extensions, second-story additions, attached garages, free-standing outbuildings, and carport conversions.",
+      "features": [
+        "Room additions & extensions",
+        "Second-story additions",
+        "Attached garages",
+        "Free-standing outbuildings",
+        "Carport conversions"
+      ],
+      "faq": [
+        {
+          "q": "Why choose us for Home Additions?",
+          "a": "We provide guaranteed workmanship, premium materials, and experienced professional technicians."
+        }
+      ]
+    },
+    {
+      "slug": "kitchen-remodeling",
+      "title": "Kitchen Remodeling",
+      "shortDescription": "Full kitchen remodels, reconfigured layouts, and custom backsplash work.",
+      "longDescription": "We re-configure kitchens and utilities, removing or pushing out walls to create more space, and finish with custom tile, cabinetry, and lighting built to last.",
+      "features": [
+        "Custom cabinetry",
+        "Backsplash & tile work",
+        "Layout reconfiguration",
+        "Lighting upgrades"
+      ],
+      "faq": [
+        {
+          "q": "Why choose us for Kitchen Remodeling?",
+          "a": "We provide guaranteed workmanship, premium materials, and experienced professional technicians."
+        }
+      ]
+    },
+    {
+      "slug": "bathroom-remodeling",
+      "title": "Bathroom Remodeling",
+      "shortDescription": "Bathroom additions and remodels with custom tile and fixtures.",
+      "longDescription": "From full bathroom additions to complete remodels, we handle plumbing, tile, and finish work to create a master bath or guest bath that fits your home and budget.",
+      "features": [
+        "Custom tile work",
+        "Bathroom additions",
+        "Fixture upgrades",
+        "Master bath remodels"
+      ],
+      "faq": [
+        {
+          "q": "Why choose us for Bathroom Remodeling?",
+          "a": "We provide guaranteed workmanship, premium materials, and experienced professional technicians."
+        }
+      ]
+    },
+    {
+      "slug": "decks---patios",
+      "title": "Decks & Patios",
+      "shortDescription": "Deck building and repair, covered patios, and outdoor kitchens.",
+      "longDescription": "We design and build custom decks and covered patios, including second-story deck replacements, deck repair, and outdoor fireplace and kitchen installations.",
+      "features": [
+        "Deck building & repair",
+        "Second-story decks",
+        "Covered patios",
+        "Outdoor fireplace/kitchen"
+      ],
+      "faq": [
+        {
+          "q": "Why choose us for Decks & Patios?",
+          "a": "We provide guaranteed workmanship, premium materials, and experienced professional technicians."
+        }
+      ]
+    },
+    {
+      "slug": "repairs---renovations",
+      "title": "Repairs & Renovations",
+      "shortDescription": "Structural repairs, drywall, siding, and basement or attic conversions.",
+      "longDescription": "We handle structural repairs, drywall repair and installation, siding replacement, wall texturing, and basement or attic conversions to finish out the space you already have.",
+      "features": [
+        "Structural repairs",
+        "Drywall repair & install",
+        "Siding replacement",
+        "Basement & attic conversions",
+        "Wall texturing"
+      ],
+      "faq": [
+        {
+          "q": "Why choose us for Repairs & Renovations?",
+          "a": "We provide guaranteed workmanship, premium materials, and experienced professional technicians."
+        }
+      ]
+    },
+    {
+      "slug": "flooring",
+      "title": "Flooring",
+      "shortDescription": "Hardwood and tile floor installation.",
+      "longDescription": "We install hardwood and tile flooring as part of a full remodel or as a standalone project, matched to the style of your home.",
+      "features": [
+        "Hardwood installation",
+        "Tile floor installation"
+      ],
+      "faq": [
+        {
+          "q": "Why choose us for Flooring?",
+          "a": "We provide guaranteed workmanship, premium materials, and experienced professional technicians."
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "slug": "smyrna",
+      "name": "Smyrna",
+      "seoTitle": "Premium Remodeling & Construction Services in Smyrna TN | Built Right Construction",
+      "seoDescription": "Need Remodeling & Construction in Smyrna, TN? Contact Built Right Construction for premium services with warranties. Free estimates available.",
+      "intro": "Built Right Construction proudly serves the Smyrna, TN community with expert Remodeling & Construction services, reliable quality, and transparent pricing.",
+      "ctaText": "Book in Smyrna"
+    },
+    {
+      "slug": "nashville",
+      "name": "Nashville",
+      "seoTitle": "Premium Remodeling & Construction Services in Nashville TN | Built Right Construction",
+      "seoDescription": "Need Remodeling & Construction in Nashville, TN? Contact Built Right Construction for premium services with warranties. Free estimates available.",
+      "intro": "Built Right Construction proudly serves the Nashville, TN community with expert Remodeling & Construction services, reliable quality, and transparent pricing.",
+      "ctaText": "Book in Nashville"
+    },
+    {
+      "slug": "brentwood",
+      "name": "Brentwood",
+      "seoTitle": "Premium Remodeling & Construction Services in Brentwood TN | Built Right Construction",
+      "seoDescription": "Need Remodeling & Construction in Brentwood, TN? Contact Built Right Construction for premium services with warranties. Free estimates available.",
+      "intro": "Built Right Construction proudly serves the Brentwood, TN community with expert Remodeling & Construction services, reliable quality, and transparent pricing.",
+      "ctaText": "Book in Brentwood"
+    },
+    {
+      "slug": "murfreesboro",
+      "name": "Murfreesboro",
+      "seoTitle": "Premium Remodeling & Construction Services in Murfreesboro TN | Built Right Construction",
+      "seoDescription": "Need Remodeling & Construction in Murfreesboro, TN? Contact Built Right Construction for premium services with warranties. Free estimates available.",
+      "intro": "Built Right Construction proudly serves the Murfreesboro, TN community with expert Remodeling & Construction services, reliable quality, and transparent pricing.",
+      "ctaText": "Book in Murfreesboro"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Gina McCarty",
+      "location": "Smyrna, TN",
+      "rating": 5,
+      "text": "Built Right Construction restored my faith that honesty and integrity still exist when hiring someone to do quality work. Our kitchen was gutted and remodeled to perfection. Mark goes above and beyond what one would expect. His knowledge and skill in his industry helped us design a more efficient kitchen and office space for our home. He also added a beautiful roof and lighting over our patio."
+    },
+    {
+      "author": "Evella Bowers Richardson",
+      "location": "Smyrna, TN",
+      "rating": 5,
+      "text": "Mark and his team did an excellent job on replacement of our 2nd story deck. He is very knowledgeable in his field of work and I would recommend him to the president. Love them and their work."
+    },
+    {
+      "author": "Mickey Richardson",
+      "location": "Smyrna, TN",
+      "rating": 5,
+      "text": "Mark and Ken did a great job on the work I had done. Highly recommended. Mark is my go-to contractor."
+    },
+    {
+      "author": "Cindy Hayes Cooper",
+      "location": "Smyrna, TN",
+      "rating": 5,
+      "text": "Mark and his team did such an awesome job on my outside deck expansion. It turned out beautiful. Thanks Mark!"
+    },
+    {
+      "author": "Rob Wildman",
+      "location": "Smyrna, TN",
+      "rating": 5,
+      "text": "Honest, dependable, Rock Star workmanship. Highly recommend."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are you licensed, bonded, and insured?",
+      "a": "Yes, Built Right Construction is fully licensed, bonded, and insured. References and proof of insurance and license are available on request."
+    },
+    {
+      "q": "Do you offer free estimates?",
+      "a": "Yes, we provide free estimates with no obligation on every project."
+    },
+    {
+      "q": "What areas do you serve?",
+      "a": "We serve homeowners in Nashville, Brentwood, Murfreesboro, Smyrna, and the surrounding Middle Tennessee area."
+    },
+    {
+      "q": "How much experience does Built Right Construction have?",
+      "a": "Built Right Construction was established in 1996. Owner Mark Crawford has more than 20 years of experience in building, design, and construction."
+    },
+    {
+      "q": "Are you certified to work on older homes?",
+      "a": "Yes, Mark Crawford is a Certified EPA Lead-Safe Renovator, qualified to safely work on homes built before 1978."
+    },
+    {
+      "q": "What types of projects do you handle?",
+      "a": "We handle home additions, kitchen and bathroom remodels, decks and patios, structural repairs, and flooring installation."
+    }
+  ]
+}
