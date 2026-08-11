@@ -48,12 +48,12 @@
 /* Sharp Contractor Flat Panels */
 .contractor-panel {
   background: var(--card-bg, #ffffff);
-  border: 1px solid var(--card-border, #e2e8f0);
+  border: 1px solid var(--card-border, #e7e5e4);
 }
 
 .dark .contractor-panel {
-  background: var(--card-bg-dark, #0f172a);
-  border: 1px solid var(--card-border-dark, #1e293b);
+  background: var(--card-bg-dark, #1c1917);
+  border: 1px solid var(--card-border-dark, #292524);
 }
 
 /* Decorative Glow Blobs */
