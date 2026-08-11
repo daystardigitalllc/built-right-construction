@@ -15,7 +15,21 @@
       "h1": "Built Right, the First Time",
       "supporting": "Home remodeling, additions, decks, and repairs for Nashville, Brentwood, Murfreesboro, and Smyrna homeowners — backed by 30+ years of experience and free estimates with no obligation.",
       "ctaText": "Get a Free Estimate",
-      "badge": "⭐⭐⭐⭐⭐ Top Rated Local Remodeling & Construction"
+      "badge": "⭐⭐⭐⭐⭐ Top Rated Local Remodeling & Construction",
+      "bgImage": "/images/covered-patio.jpg"
+    },
+    "scrollShowcase": {
+      "badge": "Our Craftsmanship",
+      "heading": "See Built Right Construction in Action",
+      "subtitle": "From framing to finish work, here's a look at real projects completed for Smyrna-area homeowners.",
+      "images": {
+        "topLeft": { "src": "https://images.unsplash.com/photo-1556912167-f556f1f39fdf?auto=format&fit=crop&w=900&q=80", "alt": "Remodeled kitchen with hexagon tile backsplash" },
+        "topRight": { "src": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=900&q=80", "alt": "Remodeled bathroom with glass shower and freestanding tub" },
+        "bottomLeft": { "src": "/images/covered-patio.jpg", "alt": "Covered patio addition with exposed wood beams" },
+        "bottomRight": { "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=80", "alt": "Open-concept renovated living and dining space" },
+        "hero": { "src": "/images/living-room-remodel.jpg", "alt": "Living room remodel with new hardwood flooring" }
+      },
+      "heroCaption": "Our Signature Work"
     },
     "about": {
       "title": "About Built Right Construction",
@@ -44,6 +58,7 @@
     {
       "slug": "home-additions",
       "title": "Home Additions",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=900&q=80",
       "shortDescription": "Room additions, second-story additions, garages, and outbuildings.",
       "longDescription": "Need more space but don't want to move? We design and build room additions and extensions, second-story additions, attached garages, free-standing outbuildings, and carport conversions.",
       "features": [
@@ -63,6 +78,7 @@
     {
       "slug": "kitchen-remodeling",
       "title": "Kitchen Remodeling",
+      "image": "https://images.unsplash.com/photo-1556912167-f556f1f39fdf?auto=format&fit=crop&w=900&q=80",
       "shortDescription": "Full kitchen remodels, reconfigured layouts, and custom backsplash work.",
       "longDescription": "We re-configure kitchens and utilities, removing or pushing out walls to create more space, and finish with custom tile, cabinetry, and lighting built to last.",
       "features": [
@@ -81,6 +97,7 @@
     {
       "slug": "bathroom-remodeling",
       "title": "Bathroom Remodeling",
+      "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=900&q=80",
       "shortDescription": "Bathroom additions and remodels with custom tile and fixtures.",
       "longDescription": "From full bathroom additions to complete remodels, we handle plumbing, tile, and finish work to create a master bath or guest bath that fits your home and budget.",
       "features": [
@@ -99,6 +116,7 @@
     {
       "slug": "decks---patios",
       "title": "Decks & Patios",
+      "image": "/images/covered-patio.jpg",
       "shortDescription": "Deck building and repair, covered patios, and outdoor kitchens.",
       "longDescription": "We design and build custom decks and covered patios, including second-story deck replacements, deck repair, and outdoor fireplace and kitchen installations.",
       "features": [
@@ -117,6 +135,7 @@
     {
       "slug": "repairs---renovations",
       "title": "Repairs & Renovations",
+      "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&w=900&q=80",
       "shortDescription": "Structural repairs, drywall, siding, and basement or attic conversions.",
       "longDescription": "We handle structural repairs, drywall repair and installation, siding replacement, wall texturing, and basement or attic conversions to finish out the space you already have.",
       "features": [
@@ -136,6 +155,7 @@
     {
       "slug": "flooring",
       "title": "Flooring",
+      "image": "/images/living-room-remodel.jpg",
       "shortDescription": "Hardwood and tile floor installation.",
       "longDescription": "We install hardwood and tile flooring as part of a full remodel or as a standalone project, matched to the style of your home.",
       "features": [
